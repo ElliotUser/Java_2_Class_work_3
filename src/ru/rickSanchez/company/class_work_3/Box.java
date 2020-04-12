@@ -1,3 +1,5 @@
+package ru.rickSanchez.company.class_work_3;
+
 import java.util.Objects;
 
 public class Box extends Object{

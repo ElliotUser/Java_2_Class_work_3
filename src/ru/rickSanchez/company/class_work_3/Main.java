@@ -1,3 +1,5 @@
+package ru.rickSanchez.company.class_work_3;
+
 import java.util.ArrayList;
 import java.util.HashSet;
 
